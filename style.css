@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#jumbotron_section{
+    background-color: #7550FE;
+}
+
+#btn_jumbo_first {
+    background-color: #1ACB98 !important;
+    border: #1ACB98;
+}
+
+
+#btn_jumbo_second{
+    background-color: white;
+    border: white;
+}
+
+#jumbo_text{
+    font-size: 19px;
+}
